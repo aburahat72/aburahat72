@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aburahat72
+-  Iam studing at Manipal university jaipur in Computer Science.
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning MERN stack technology.
 - 📫 How to reach me :- aburahat72@gmail.com
