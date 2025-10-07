@@ -1,7 +1,7 @@
-👋 Hi, I'm Abu Rahat — a passionate Computer Science student aspiring to become a Software Developer Engineer.  
-💡 I’m building projects using the MERN stack and integrating AI through APIs to create smarter applications.  
-🚀 Currently learning React, APIs, and Docker to make my development workflow industry-ready.  
-📊 Exploring system monitoring, security tools, and C++ integration with Grafana.  
+👋 Hi, I'm Abu Rahat — a passionate Computer Science student at Manipal University Jaipur, aspiring to become a Software Developer Engineer.
+💡 I’m building projects using the MERN stack and integrating AI through APIs to create smarter applications.
+🚀 Currently learning React, APIs, and Docker to make my development workflow industry-ready.
+📊 Exploring system monitoring, security tools, and C++ integration with Grafana.
 🎯 Always learning, building, and improving — one project at a time.
 - 📫 How to reach me :- aburahat72@gmail.com
 
